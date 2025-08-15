@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MarcoAxel
+- 🐍 Sql and Python are my top guns
 - 👀 I’m interested in Agile Scrum, Data Engineering, Software Engineering, and Networking
 - 🌱 I’m currently learning Django, AWS, MySQL, and c++
 - 📫 How to reach me marcohernandev@gmail.com
